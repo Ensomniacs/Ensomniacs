@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about HMTL5, SCSS, and JavaScript. Currently working towards a BA in Web Design & Development. 
 - 🌱 I’m currently learning SCSS and JQuery.
 - 💞️ Send me a coffee & help support my work.
-- 📫 How to reach me: Email: Enso@Enso.codes
+- 📫 How to reach me: Enso@Enso.codes
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T3JTV0)
 <!---
