@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enso!
 - 👀 I’m interested in learning more about HMTL5, SCSS, and JavaScript. Currently working towards a BA in Web Design & Development. 
-- 🌱 I’m currently learning SCSS and JQuery.
+- 🌱 I’m currently learning SCSS and User Experience (UX) Design.
 - 💞️ Send me a coffee & help support my work.
 - 📫 How to reach me: Enso@Enso.codes
 
